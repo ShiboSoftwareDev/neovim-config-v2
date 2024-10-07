@@ -5,7 +5,7 @@ mason.setup {
 	ensure_installed = {
 		'lua_ls',
 		'clangd',
-		'tsserver',
+		'ts_ls',
 		'eslint',
 	},
 	handlers = {
